@@ -6,7 +6,7 @@ from langchain_core.documents import Document
 from tqdm import tqdm
 
 DATA_PATH = os.path.join("jobs_clean.csv")
-CHROMA_PATH = "./jobs_db"
+CHROMA_PATH = "data/jobs_db"
 EMBED_MODEL = "nomic-embed-text"
 
 def ingest():
