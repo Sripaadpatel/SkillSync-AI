@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+python-multipart
+pydantic
+pypdf
+langchain-ollama
+langchain-chroma
+langchain-core
+chromadb
+pandas
+duckdb
+beautifulsoup4
+tqdm
