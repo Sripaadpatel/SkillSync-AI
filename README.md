@@ -1,7 +1,7 @@
 # 🚀 SkillSync: AI-Powered Career Matchmaker
 
 <div align="center">
-<a href="https://www.google.com/search?q=https://github.com/yourusername/skillsync">
+<a href="https://www.google.com/search?q=https://github.com/Sripaadpatel/skillsync">
 <img src="https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcQoAH5xWQHW3HViAPioOHI_kAkDnZU9Lja4EtZZQD0PU0nT2hJAjoMmfBsDxvfdHPd3dQdyEZPLAFWjI3vHXumkliXq2IHCbJGUiViY6Ra_7IrbeZ8" alt="SkillSync Banner" width="100%">
 </a>
 
