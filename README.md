@@ -2,7 +2,7 @@
 
 <div align="center">
 <p align="center">
-  <img src="assets/banner.svg" alt="SkillSync AI Banner" width="100%"/>
+  <img src="skillsync-banner.svg" alt="SkillSync AI Banner" width="100%"/>
 </p>
 
 
